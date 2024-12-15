@@ -23,7 +23,7 @@ This repository showcases my data analytics journey, focusing on **water access 
 Effective visualization of data not only highlights issues but also empowers stakeholders to act. These projects simulate real-world scenarios, emphasizing the importance of data-driven governance and equitable resource distribution.  
 
 ## Explore the Dashboards  
-🔗 [Link to Power BI files and documentation]  
+🔗 [https://github.com/mayas-spec/Maji-Ndogo-Insights-.git]  
 
 ## Let's Connect  
 I’m passionate about using data to solve global challenges. Feel free to reach out if you’re interested in collaboration or professional opportunities.  
